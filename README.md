@@ -1,6 +1,6 @@
 # Smart Booking Platform with NFC Integration
 
-A modern, smart booking platform inspired by Booking.com, built with Next.js, Redux, and Node.js. This project integrates NFC technology to create a frictionless hotel experience—from booking and check-in to room access and personalized services.
+A modern, smart booking platform, built with Next.js, Redux, and Node.js. This project integrates NFC technology to create a frictionless hotel experience—from booking and check-in to room access and personalized services.
 
 ---
 
@@ -44,7 +44,7 @@ A modern, smart booking platform inspired by Booking.com, built with Next.js, Re
 ### Frontend
 - **Next.js** — Server-side rendering & modern React framework
 - **Redux** — State management
-- Tailwind CSS (optional) — Styling
+- Tailwind CSS  — Styling
 
 ### Backend
 - **Node.js / Express.js** — API server
