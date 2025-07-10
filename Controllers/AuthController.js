@@ -1,4 +1,3 @@
-
 // controllers/AuthController.js
 const { validationResult } = require('express-validator');
 const { registerValidation } = require('../middlewares/validators'); // Update the path
